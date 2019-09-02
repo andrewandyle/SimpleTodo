@@ -32,7 +32,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Constraints would not work properly without changing in the xml from Relative Layout back to Constraint Layout. As a result, some of the attributes may not match the ones in the tutorial videos.
+
+The app on the emulator crashes every time I try to long click to remove an item on the list. I don't know if this is a problem with the emulator I'm having, the code, or my laptop, yet everything else seems to run fine. I excluded removing an item from my gif because of that.
 
 ## License
 
